@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import random
 
 animaux=["le saumon","le rat","le loup","la belette","le singe"]
